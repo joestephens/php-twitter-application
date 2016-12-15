@@ -4,9 +4,9 @@ We're looking to see how much you can learn within a short timeframe. Please do 
 
 I would advise that you make something basic that works to begin with, and then proceed to structure the application in terms of MVC (model-view-controller) and OOP (object-oriented programming).
 
-Resources are provided below which should help to guide you. The use of a PHP Twitter wrapper is highly recommended to save you time.
+Resources are provided below which should help to guide you. The use of a [PHP Twitter API wrapper](https://github.com/J7mbo/twitter-api-php) is highly recommended to save you time.
 
-Please develop on your localhost (look at MAMP below) and commit regularly to a Git repo. Push your finished or partial solution to GitHub.
+Please develop on your localhost (look at MAMP below) and commit regularly to a Git repo, pushing your finished or partial solution up to GitHub.
 
 ## Specification
 Please create a web application - using PHP and HTML - that fetches tweets from [Karma's Twitter feed](https://twitter.com/KarmacrewTV) and displays them on a webpage.
