@@ -18,10 +18,11 @@ Bonus points:
 * Basic styling with CSS.
 
 ## Resources
+* [Register a Twitter Application](https://apps.twitter.com/) - Obtain necessary API keys.
 * [MAMP](https://www.mamp.info/en/) - Installs Apache (or Nginx), MySQL and PHP on Mac or Windows.
-* [Build your first Twitter app using PHP](https://iag.me/socialmedia/build-your-first-twitter-app-using-php-in-8-easy-steps/) - Beginner friendly PHP/Twitter API tutorial
-* [W3Schools PHP 5 Form Handling](http://www.w3schools.com/php/php_forms.asp) - Handling GET and POST with PHP
-* [(The only proper) PDO tutorial](https://phpdelusions.net/pdo) - Using PHP's Database Wrapper
+* [Build your first Twitter app using PHP](https://iag.me/socialmedia/build-your-first-twitter-app-using-php-in-8-easy-steps/) - Beginner friendly PHP/Twitter API tutorial.
+* [W3Schools PHP 5 Form Handling](http://www.w3schools.com/php/php_forms.asp) - Handling GET and POST with PHP.
+* [(The only proper) PDO tutorial](https://phpdelusions.net/pdo) - Using PHP's Database Wrapper.
 * [A most simple PHP MVC Beginners Tutorial](http://requiremind.com/a-most-simple-php-mvc-beginners-tutorial/)
 * [W3Schools HTML JavaScript](http://www.w3schools.com/html/html_scripts.asp)
 * [W3Schools AJAX Tutorial](http://www.w3schools.com/xml/ajax_intro.asp)
