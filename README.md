@@ -23,3 +23,6 @@ Bonus points:
 * [W3Schools PHP 5 Form Handling](http://www.w3schools.com/php/php_forms.asp) - Handling GET and POST with PHP
 * [(The only proper) PDO tutorial](https://phpdelusions.net/pdo) - Using PHP's Database Wrapper
 * [A most simple PHP MVC Beginners Tutorial](http://requiremind.com/a-most-simple-php-mvc-beginners-tutorial/)
+* [W3Schools HTML JavaScript](http://www.w3schools.com/html/html_scripts.asp)
+* [W3Schools AJAX Tutorial](http://www.w3schools.com/xml/ajax_intro.asp)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/)
