@@ -9,10 +9,10 @@ Resources are provided below which should help to guide you. The use of a PHP Tw
 Please develop on your localhost (look at MAMP below) and commit regularly to a Git repo. Push your finished or partial solution to GitHub.
 
 ## Specification
-Please create a web application - using PHP and HTML - that fetches tweets from Karma's Twitter feed and displays them on a webpage.
+Please create a web application - using PHP and HTML - that fetches tweets from [Karma's Twitter feed](https://twitter.com/KarmacrewTV) and displays them on a webpage.
 
 Bonus points:
-* Allow the user of the application to choose which Twitter feed they would like to view (a username text input with a PHP POST request for example).
+* Allow the user of the application to choose whose Twitter feed they would like to view (a username text input with a PHP POST request for example).
 * Store the retrieved tweets in a MySQL database and output the tweets from the database (this wouldn't be best practice in production but will demonstrate ability to store and retrieve from databases).
 * Use JavaScript and AJAX to load/update content without refreshing the page.
 * Basic styling with CSS.
